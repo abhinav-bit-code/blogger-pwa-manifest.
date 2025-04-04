@@ -2,7 +2,6 @@
   "name": "dizzi",
   "short_name": "Dizzi",
   "start_url": "https://dizziplay.blogspot.com/?m=1",
-  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
@@ -18,4 +17,4 @@
       "type": "image/png"
     }
   ]
-}
+} add in it please
