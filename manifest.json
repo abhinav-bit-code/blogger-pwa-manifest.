@@ -1,15 +1,19 @@
 {
   "name": "dizzi",
   "short_name": "Dizzi",
-  "description": "View my Blogger site as an app",
-  "start_url": "/",
-  "display": "standalone",
+  "start_url": "https://dizziplay.blogspot.com/",
+  "display": "standalone",  // This removes the address bar
   "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "description": "entertainment",
   "icons": [
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMIjbvfH3Y6Dz7VBJbeO2QnmteQyXOhywKafBEtcPS7hX_wJYDgaxx2RB9FUDqPzG3s4Oemzat-um8xFvTT2_9oGD_wGveke7gAknH1N5QwQMATg-4KFTEtQoLZkMLgCdIHxbp7NxWgtWUDf1S3mY2ZdC8ogfQuGIrZnG0R6dy79MXLoCWbQA6Gc4t0t-w/s1600/1743770486437.jpg",
       "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
